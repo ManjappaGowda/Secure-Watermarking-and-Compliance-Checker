@@ -79,10 +79,3 @@ npm run build
    - Click "Extract Watermark"
    - View the extracted watermark text
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
